@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpTcpApp", "NpTcpApp\NpTcpApp.csproj", "{681DB9FB-76C2-482B-A10F-88810114D333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpTcpClientSocketApp", "NpTcpClientSocketApp\NpTcpClientSocketApp.csproj", "{06C5CB61-F8F8-44DF-AF8B-562B39715F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681DB9FB-76C2-482B-A10F-88810114D333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681DB9FB-76C2-482B-A10F-88810114D333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681DB9FB-76C2-482B-A10F-88810114D333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681DB9FB-76C2-482B-A10F-88810114D333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C5CB61-F8F8-44DF-AF8B-562B39715F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C5CB61-F8F8-44DF-AF8B-562B39715F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C5CB61-F8F8-44DF-AF8B-562B39715F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C5CB61-F8F8-44DF-AF8B-562B39715F09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC80862C-35E3-444C-B2D0-CBFD369F2EBF}
+	EndGlobalSection
+EndGlobal
